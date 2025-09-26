@@ -10,3 +10,5 @@ const app = express();
 
 ### 5. package.json: METADATA
    *información de metadatos del proyecto, como dep, scripts y más*
+   
+![](https://github.com/jpaulgb/NodeJs/blob/main/Introduction/node_y_express.png)
